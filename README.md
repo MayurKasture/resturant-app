@@ -1,7 +1,12 @@
 # resturant-app
 This is all about digikull intitute git session practice
 
-********************************************git Access*******************************************
+
+
+
+**************************************************************************************************
+*git access to our repo*
+**************************************************************************************************
 01 touch .gitignore
 02 git config --global user.name "MayurKasture-Webonise"
 03 git config --global user.email "mayur.kasture111@.com"
@@ -16,12 +21,12 @@ This is all about digikull intitute git session practice
 12 cat /c/Users/amd/.ssh/id_rsa.pub     (It Generate SSH path Copy And Paste To Your Github>Settings>SSH and GPG Keys>Click on - Add Key)
 13 git push origin master
 
-
 **************************************************************************************************
-TO UPDATE :--
+*TO UPDATE :--*
+**************************************************************************************************
 If you make some changes in that project then you need to follow below steps.
 >> git status
 >> git add .
 >> git commit -m "Added or Edit some files" 
 >> git push origin master
-********************************************work successfull check repository*********************
+**************************************************************************************************
